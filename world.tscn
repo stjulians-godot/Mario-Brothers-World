@@ -1,4 +1,4 @@
-[gd_scene load_steps=20 format=3 uid="uid://cll7u3kh7l0xj"]
+[gd_scene load_steps=97 format=3 uid="uid://cll7u3kh7l0xj"]
 
 [ext_resource type="Texture2D" uid="uid://b1rwm1yumnttt" path="res://Assets/Parallax Forest Background (Seamless)/Parallax Forest Background - Blue/10_Sky.png" id="1_bdefl"]
 [ext_resource type="Script" path="res://character_body_2d.gd" id="1_l2eje"]
@@ -12,46 +12,476 @@
 [ext_resource type="Texture2D" uid="uid://drmqqsc3s7oj5" path="res://Assets/Parallax Forest Background (Seamless)/Parallax Forest Background - Blue/03_Particles.png" id="8_l8843"]
 [ext_resource type="Texture2D" uid="uid://3ij3ixgusjto" path="res://Assets/Parallax Forest Background (Seamless)/Parallax Forest Background - Blue/02_Bushes.png" id="9_n6owu"]
 [ext_resource type="Texture2D" uid="uid://dsui83y673e64" path="res://Assets/Parallax Forest Background (Seamless)/Parallax Forest Background - Blue/01_Mist.png" id="10_arcjh"]
-[ext_resource type="Texture2D" uid="uid://beu7h6houyorb" path="res://Assets/Mario Game Assets/Mario_Small_Idle.png" id="12_w75an"]
-[ext_resource type="Texture2D" uid="uid://2ijk5336sca5" path="res://Assets/Mario Game Assets/Mario_Small_Jump.png" id="13_rpsx2"]
-[ext_resource type="Texture2D" uid="uid://b74joargdus16" path="res://Assets/Mario Game Assets/Mario_Small_Run1.png" id="14_j2e6j"]
-[ext_resource type="Texture2D" uid="uid://drikydujc5l4p" path="res://Assets/Mario Game Assets/Mario_Small_Run2.png" id="15_ruiet"]
-[ext_resource type="Texture2D" uid="uid://lrnvxbrhglei" path="res://Assets/Mario Game Assets/Mario_Small_Run3.png" id="16_bbacr"]
+[ext_resource type="Texture2D" uid="uid://utklfcdwoq1s" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-07.png" id="12_lpmfo"]
+[ext_resource type="Texture2D" uid="uid://ejleay7ofwal" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-08.png" id="13_qlgr4"]
+[ext_resource type="Texture2D" uid="uid://c5dmqr4p0lhb1" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-08_1.png" id="14_vj3s1"]
+[ext_resource type="Texture2D" uid="uid://cnkqof136j81h" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-09.png" id="15_2ob3e"]
+[ext_resource type="Texture2D" uid="uid://sgmqgkjklu0p" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-10.png" id="16_8evop"]
+[ext_resource type="Texture2D" uid="uid://dj8k6r5mfkdlj" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-11.png" id="17_u8yms"]
+[ext_resource type="Texture2D" uid="uid://dtmwrqu263whp" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-12.png" id="18_xxv8w"]
+[ext_resource type="Texture2D" uid="uid://cn16s6gaofccl" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-12_1.png" id="19_1nawi"]
+[ext_resource type="Texture2D" uid="uid://dooy1uyyj0o3n" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-13.png" id="20_24iin"]
+[ext_resource type="Texture2D" uid="uid://crg6ss2ru0eeu" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-14.png" id="21_u2gkj"]
+[ext_resource type="Texture2D" uid="uid://d0uyldu08pnva" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-15.png" id="22_nj3yx"]
+[ext_resource type="Texture2D" uid="uid://dfrg1hhkyhadr" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-16.png" id="23_n0eki"]
+[ext_resource type="Texture2D" uid="uid://bwv1rnxh50121" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-16_1.png" id="24_p3noj"]
+[ext_resource type="Texture2D" uid="uid://bpblper1pqhwr" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-17.png" id="25_ro4hu"]
+[ext_resource type="Texture2D" uid="uid://p5hygj3csmwp" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-18.png" id="26_e6h2w"]
+[ext_resource type="Texture2D" uid="uid://demfb3lmitisl" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-19.png" id="27_3w4a3"]
+[ext_resource type="Texture2D" uid="uid://cgxjpi3yits7c" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-19_1.png" id="28_08e7v"]
+[ext_resource type="Texture2D" uid="uid://cjqn8jkiv68a2" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-20.png" id="29_vcb62"]
+[ext_resource type="Texture2D" uid="uid://b06hc2w6lofum" path="res://Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-21.png" id="30_qldk7"]
+[ext_resource type="Texture2D" uid="uid://b3xdvnixdds2v" path="res://Assets/nsmbw mario sprites/jump/SMNE01_2024-09-29_16-43-35.png" id="31_mps8i"]
+[ext_resource type="Texture2D" uid="uid://dv5xqngul6i2f" path="res://Assets/nsmbw mario sprites/jump/SMNE01_2024-09-29_16-43-36.png" id="32_37y7i"]
+[ext_resource type="Texture2D" uid="uid://pd20uaubvj0b" path="res://Assets/nsmbw mario sprites/jump/SMNE01_2024-09-29_16-43-37.png" id="33_ecqtn"]
+[ext_resource type="Texture2D" uid="uid://djil3vehnsng2" path="res://Assets/nsmbw mario sprites/jump/SMNE01_2024-09-29_16-43-38.png" id="34_pad31"]
+[ext_resource type="Texture2D" uid="uid://b13fl34gsym6t" path="res://Assets/nsmbw mario sprites/jump/SMNE01_2024-09-29_16-43-39.png" id="35_p8gql"]
+[ext_resource type="Texture2D" uid="uid://c5xahb70lhlay" path="res://Assets/nsmbw mario sprites/jump/SMNE01_2024-09-29_16-43-40.png" id="36_erp37"]
+[ext_resource type="Texture2D" uid="uid://bi4x5k71bq77w" path="res://Assets/nsmbw mario sprites/jump/SMNE01_2024-09-29_16-43-41.png" id="37_46q26"]
+[ext_resource type="Texture2D" uid="uid://cfby1tuafgiq0" path="res://Assets/nsmbw mario sprites/jump/SMNE01_2024-09-29_16-43-42.png" id="38_kllas"]
+[ext_resource type="Texture2D" uid="uid://bkoi8cyjkr76m" path="res://Assets/nsmbw mario sprites/jump/SMNE01_2024-09-29_16-43-42_1.png" id="39_jaj7k"]
+[ext_resource type="Texture2D" uid="uid://bitiomqkpc1mx" path="res://Assets/nsmbw mario sprites/jump/SMNE01_2024-09-29_16-43-43.png" id="40_fu72d"]
+[ext_resource type="Texture2D" uid="uid://diklk31jfgs3j" path="res://Assets/nsmbw mario sprites/jump/SMNE01_2024-09-29_16-43-44.png" id="41_s5bti"]
+[ext_resource type="Texture2D" uid="uid://drcocaalhcmgs" path="res://Assets/nsmbw mario sprites/jump/SMNE01_2024-09-29_16-43-45.png" id="42_bis6r"]
+[ext_resource type="Texture2D" uid="uid://dqgtodqqsu4ji" path="res://Assets/nsmbw mario sprites/jump/SMNE01_2024-09-29_16-43-46.png" id="43_yp40y"]
+[ext_resource type="Texture2D" uid="uid://dak32vqbenyo6" path="res://Assets/nsmbw mario sprites/jump/SMNE01_2024-09-29_16-43-46_1.png" id="44_x5phb"]
+[ext_resource type="Texture2D" uid="uid://dpyg55mbgc15k" path="res://Assets/nsmbw mario sprites/step/SMNE01_2024-10-02_11-34-18.png" id="45_gpbwe"]
+[ext_resource type="Texture2D" uid="uid://5n864s8dwfjr" path="res://Assets/nsmbw mario sprites/step/SMNE01_2024-10-02_11-34-19.png" id="46_i6blb"]
+[ext_resource type="Texture2D" uid="uid://boum48t1r0ubq" path="res://Assets/nsmbw mario sprites/step/SMNE01_2024-10-02_11-34-20.png" id="47_q81ey"]
+[ext_resource type="Texture2D" uid="uid://d1sm15vewj8ah" path="res://Assets/nsmbw mario sprites/step/SMNE01_2024-10-02_11-34-21.png" id="48_t5ctt"]
+[ext_resource type="Texture2D" uid="uid://dknratitaxi6s" path="res://Assets/nsmbw mario sprites/step/SMNE01_2024-10-02_11-34-22.png" id="49_aco8v"]
+[ext_resource type="Texture2D" uid="uid://o3tu4qpy8qal" path="res://Assets/nsmbw mario sprites/step/SMNE01_2024-10-02_11-34-23.png" id="50_i24mn"]
+[ext_resource type="Texture2D" uid="uid://b4d22qnvp48il" path="res://Assets/nsmbw mario sprites/walking/SMNE01_2024-09-28_23-05-20.png" id="51_60j1c"]
+[ext_resource type="Texture2D" uid="uid://pf3ullc0vm31" path="res://Assets/nsmbw mario sprites/walking/SMNE01_2024-09-28_23-05-21.png" id="52_dm5g0"]
+[ext_resource type="Texture2D" uid="uid://xdcqx3c7qxet" path="res://Assets/nsmbw mario sprites/walking/SMNE01_2024-09-28_23-05-22.png" id="53_yrf4b"]
+[ext_resource type="Texture2D" uid="uid://dolos5e47chqf" path="res://Assets/nsmbw mario sprites/walking/SMNE01_2024-09-28_23-05-23.png" id="54_725m5"]
+[ext_resource type="Texture2D" uid="uid://dlyilsxv48xn" path="res://Assets/nsmbw mario sprites/walking/SMNE01_2024-09-28_23-05-24.png" id="55_ncci6"]
+[ext_resource type="Texture2D" uid="uid://bkd3coivmu7uv" path="res://Assets/nsmbw mario sprites/walking/SMNE01_2024-09-28_23-05-24_1.png" id="56_ctted"]
+[ext_resource type="Texture2D" uid="uid://d0m4o4j6wspys" path="res://Assets/nsmbw mario sprites/walking/SMNE01_2024-09-28_23-05-25.png" id="57_psfos"]
+[ext_resource type="Texture2D" uid="uid://cpy2loefdf7px" path="res://Assets/nsmbw mario sprites/walking/SMNE01_2024-09-28_23-05-26.png" id="58_1bfrb"]
+[ext_resource type="Texture2D" uid="uid://pad6ssm1hvuk" path="res://Assets/nsmbw mario sprites/walking/SMNE01_2024-09-28_23-05-27.png" id="59_lkhru"]
+[ext_resource type="Texture2D" uid="uid://de6isvb1avvlf" path="res://Assets/nsmbw mario sprites/walking/SMNE01_2024-09-28_23-05-28.png" id="60_j0n47"]
+[ext_resource type="Texture2D" uid="uid://bvidbrcn0m7si" path="res://Assets/nsmbw mario sprites/walking/SMNE01_2024-09-28_23-05-28_1.png" id="61_ladns"]
+[ext_resource type="Texture2D" uid="uid://sajjmcrt1fb0" path="res://Assets/nsmbw mario sprites/walking/SMNE01_2024-09-28_23-05-29.png" id="62_3mtwi"]
+[ext_resource type="Texture2D" uid="uid://j1ounbjskic2" path="res://Assets/nsmbw mario sprites/walking/SMNE01_2024-09-28_23-05-30.png" id="63_rt83k"]
+[ext_resource type="Texture2D" uid="uid://ddk13l5eyicnh" path="res://Assets/nsmbw mario sprites/walking/SMNE01_2024-09-28_23-05-31.png" id="64_6pkay"]
+[ext_resource type="Texture2D" uid="uid://dnmyhppr1sio8" path="res://Assets/nsmbw mario sprites/walking/SMNE01_2024-09-28_23-05-32.png" id="65_ms0ld"]
+[ext_resource type="Texture2D" uid="uid://dpojegqqicijb" path="res://Assets/nsmbw mario sprites/walking/SMNE01_2024-09-28_23-05-33.png" id="66_sbry3"]
+[ext_resource type="AudioStream" uid="uid://b2g7ha0y2urep" path="res://Assets/Bob Sinclar Ft. Steve Edwards - World Hold On.mp3" id="68_tqwr3"]
+[ext_resource type="Texture2D" uid="uid://mmopqcjj1saw" path="res://Assets/qblock_strips.png" id="69_h705h"]
 
-[sub_resource type="SpriteFrames" id="SpriteFrames_n3mpw"]
+[sub_resource type="WorldBoundaryShape2D" id="WorldBoundaryShape2D_mb0y3"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_5eqvj"]
+atlas = ExtResource("69_h705h")
+region = Rect2(0, 0, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_piabk"]
+atlas = ExtResource("69_h705h")
+region = Rect2(24, 0, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_g7owe"]
+atlas = ExtResource("69_h705h")
+region = Rect2(48, 0, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_1aov3"]
+atlas = ExtResource("69_h705h")
+region = Rect2(72, 0, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_qshmt"]
+atlas = ExtResource("69_h705h")
+region = Rect2(96, 0, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_27o73"]
+atlas = ExtResource("69_h705h")
+region = Rect2(120, 0, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ahtn7"]
+atlas = ExtResource("69_h705h")
+region = Rect2(144, 0, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_x0s18"]
+atlas = ExtResource("69_h705h")
+region = Rect2(168, 0, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_wo46u"]
+atlas = ExtResource("69_h705h")
+region = Rect2(0, 24, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ycw7w"]
+atlas = ExtResource("69_h705h")
+region = Rect2(24, 24, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_03ubi"]
+atlas = ExtResource("69_h705h")
+region = Rect2(48, 24, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ou6yl"]
+atlas = ExtResource("69_h705h")
+region = Rect2(72, 24, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_a7m24"]
+atlas = ExtResource("69_h705h")
+region = Rect2(96, 24, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_wjb0e"]
+atlas = ExtResource("69_h705h")
+region = Rect2(120, 24, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ofber"]
+atlas = ExtResource("69_h705h")
+region = Rect2(144, 24, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_buqo3"]
+atlas = ExtResource("69_h705h")
+region = Rect2(168, 24, 24, 24)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_wn8n6"]
 animations = [{
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("12_w75an")
+"texture": SubResource("AtlasTexture_5eqvj")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_piabk")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_g7owe")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_1aov3")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_qshmt")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_27o73")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ahtn7")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_x0s18")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_wo46u")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ycw7w")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_03ubi")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ou6yl")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_a7m24")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_wjb0e")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ofber")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_buqo3")
 }],
 "loop": true,
-"name": &"idle",
-"speed": 10.0
-}, {
+"name": &"default",
+"speed": 15.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_gyicv"]
+size = Vector2(23.4286, 23.4286)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_pbwdu"]
+atlas = ExtResource("69_h705h")
+region = Rect2(0, 192, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_4vets"]
+atlas = ExtResource("69_h705h")
+region = Rect2(24, 192, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_vvr76"]
+atlas = ExtResource("69_h705h")
+region = Rect2(48, 192, 24, 24)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_octxr"]
+atlas = ExtResource("69_h705h")
+region = Rect2(72, 192, 24, 24)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_mbbvv"]
+animations = [{
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("13_rpsx2")
+"texture": SubResource("AtlasTexture_pbwdu")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_4vets")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_vvr76")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_octxr")
 }],
 "loop": true,
-"name": &"jumping",
-"speed": 5.0
-}, {
-"frames": [{
-"duration": 1.0,
-"texture": ExtResource("14_j2e6j")
-}, {
-"duration": 1.0,
-"texture": ExtResource("15_ruiet")
-}, {
-"duration": 1.0,
-"texture": ExtResource("16_bbacr")
-}],
-"loop": true,
-"name": &"run",
+"name": &"default",
 "speed": 6.0
 }]
 
-[sub_resource type="WorldBoundaryShape2D" id="WorldBoundaryShape2D_mb0y3"]
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_gioup"]
+size = Vector2(84, 84)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_jp38o"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("12_lpmfo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_qlgr4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_vj3s1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_2ob3e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_8evop")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_u8yms")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_xxv8w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_1nawi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_24iin")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_u2gkj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_nj3yx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_n0eki")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_p3noj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_ro4hu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_e6h2w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_3w4a3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_08e7v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_vcb62")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_qldk7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_qldk7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_vcb62")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_08e7v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_3w4a3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_e6h2w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_ro4hu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_p3noj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_n0eki")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_nj3yx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_u2gkj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_24iin")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_1nawi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_xxv8w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_u8yms")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_8evop")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_2ob3e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_vj3s1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_qlgr4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_lpmfo")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 15.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("31_mps8i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_37y7i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_ecqtn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_pad31")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_p8gql")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_erp37")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_46q26")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_kllas")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_jaj7k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_fu72d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_s5bti")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_bis6r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_yp40y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_x5phb")
+}],
+"loop": false,
+"name": &"jumping",
+"speed": 20.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("45_gpbwe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_i6blb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_q81ey")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_t5ctt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_aco8v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_i24mn")
+}],
+"loop": false,
+"name": &"landing",
+"speed": 15.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("51_60j1c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_dm5g0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_yrf4b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_725m5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_ncci6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_ctted")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_psfos")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_1bfrb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_lkhru")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_j0n47")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_ladns")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_3mtwi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_rt83k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_6pkay")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_ms0ld")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_sbry3")
+}],
+"loop": true,
+"name": &"walking",
+"speed": 26.0
+}]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_fcxqk"]
+radius = 44.0
+height = 246.0
 
 [node name="World 1" type="Node2D"]
 
@@ -115,46 +545,24 @@ texture = ExtResource("8_l8843")
 
 [node name="Parallax2D9" type="Parallax2D" parent="background"]
 scroll_scale = Vector2(0.8, 1)
-scroll_offset = Vector2(-5, 40)
+scroll_offset = Vector2(-8, 43)
 repeat_size = Vector2(1920, 0)
 
 [node name="Sprite2D" type="Sprite2D" parent="background/Parallax2D9"]
-position = Vector2(5, -40)
+position = Vector2(6, -38)
 texture = ExtResource("9_n6owu")
 
 [node name="Parallax2D10" type="Parallax2D" parent="background"]
+visible = false
 scroll_scale = Vector2(0.9, 1)
-scroll_offset = Vector2(5, 71)
+scroll_offset = Vector2(20, 20)
 repeat_size = Vector2(1920, 0)
 
 [node name="Sprite2D" type="Sprite2D" parent="background/Parallax2D10"]
-position = Vector2(5, -26)
 texture = ExtResource("10_arcjh")
 
-[node name="Mario" type="CharacterBody2D" parent="."]
-position = Vector2(959, 803)
-script = ExtResource("1_l2eje")
-
-[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="Mario"]
-texture_filter = 1
-scale = Vector2(5, 5)
-sprite_frames = SubResource("SpriteFrames_n3mpw")
-animation = &"run"
-autoplay = "idle"
-frame_progress = 0.435512
-
-[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="Mario"]
-visible = false
-scale = Vector2(0.1, 0.1)
-polygon = PackedVector2Array(134, -556, -230, -556, -230, -554.3, -232, -553.2, -232, -484, -304, -481.9, -304, -340, -373.1, -338, -376, -338, -376, -191.2, -372.8, -188, -303.9, -188, -302, -118.9, -302, -116, -232, -116, -232, -52, -300.8, -52, -304, -48.8, -304, 20, -372.8, 20, -376, 23.2, -376, 92, -445.1, 94, -448, 94, -448, 386, -304, 387.9, -304, 452, -372.8, 452, -376, 455.2, -376, 524, -448, 526.1, -448, 600, -152, 600, -152, 459.9, -80, 457.9, -80, 388, 56.1, 388, 58.1, 460, 128, 460, 128, 600, 424, 600, 424, 527.2, 420.8, 524, 351.9, 524, 349.9, 452, 280, 452, 280, 387.9, 424, 386, 424, 95.2, 420.8, 92, 352, 92, 352, 23.2, 348.8, 20, 279.9, 20, 277.9, -52, 208, -52, 208, -116, 348.8, -116, 352, -119.2, 352, -188.1, 421.1, -190, 424, -190, 424, -264.8, 420.8, -268, 351.9, -268, 349.9, -340, 208, -340, 208, -404.1, 352, -406, 352, -480.8, 348.8, -484, 135.9, -484, 134, -553.1)
-
-[node name="Camera2D" type="Camera2D" parent="Mario"]
-limit_top = 0
-limit_bottom = 1080
-drag_horizontal_enabled = true
-
 [node name="Floor" type="StaticBody2D" parent="."]
-position = Vector2(941, 962)
+position = Vector2(800, 1067)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Floor"]
 position = Vector2(0, -13)
@@ -164,3 +572,49 @@ shape = SubResource("WorldBoundaryShape2D_mb0y3")
 visible = false
 scale = Vector2(5.625, 0.234375)
 texture = ExtResource("3_n0io6")
+
+[node name="box" type="StaticBody2D" parent="."]
+position = Vector2(1607, 630)
+scale = Vector2(3.5, 3.5)
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="box"]
+sprite_frames = SubResource("SpriteFrames_wn8n6")
+autoplay = "default"
+frame_progress = 0.233044
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="box"]
+scale = Vector2(1, 1)
+shape = SubResource("RectangleShape2D_gyicv")
+
+[node name="crate" type="StaticBody2D" parent="."]
+position = Vector2(2031, 627)
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="crate"]
+scale = Vector2(3.5, 3.5)
+sprite_frames = SubResource("SpriteFrames_mbbvv")
+autoplay = "default"
+frame_progress = 0.490119
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="crate"]
+shape = SubResource("RectangleShape2D_gioup")
+
+[node name="Mario" type="CharacterBody2D" parent="."]
+position = Vector2(959, 803)
+script = ExtResource("1_l2eje")
+
+[node name="anim" type="AnimatedSprite2D" parent="Mario"]
+sprite_frames = SubResource("SpriteFrames_jp38o")
+animation = &"jumping"
+
+[node name="Camera2D" type="Camera2D" parent="Mario"]
+limit_top = 0
+limit_bottom = 1080
+drag_horizontal_enabled = true
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Mario"]
+position = Vector2(0, 7)
+shape = SubResource("CapsuleShape2D_fcxqk")
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="Mario"]
+stream = ExtResource("68_tqwr3")
+autoplay = true

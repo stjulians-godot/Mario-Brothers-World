@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b2g7ha0y2urep"
+path="res://.godot/imported/Bob Sinclar Ft. Steve Edwards - World Hold On.mp3-bf47309e72c366e6923289619fbcf144.mp3str"
+
+[deps]
+
+source_file="res://Assets/Bob Sinclar Ft. Steve Edwards - World Hold On.mp3"
+dest_files=["res://.godot/imported/Bob Sinclar Ft. Steve Edwards - World Hold On.mp3-bf47309e72c366e6923289619fbcf144.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
