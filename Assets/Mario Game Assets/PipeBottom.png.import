@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccurgk5emtt4m"
-path="res://.godot/imported/PipeBottom.png-9881bcd039fbca745049ef611b0d0f83.ctex"
+path="res://.godot/imported/PipeBottom.png-7d04c91079ca2487b0ccc0bfde2fedec.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mario Game Assets/PipeBottom.png"
-dest_files=["res://.godot/imported/PipeBottom.png-9881bcd039fbca745049ef611b0d0f83.ctex"]
+source_file="res://Assets/Mario Game Assets/PipeBottom.png"
+dest_files=["res://.godot/imported/PipeBottom.png-7d04c91079ca2487b0ccc0bfde2fedec.ctex"]
 
 [params]
 

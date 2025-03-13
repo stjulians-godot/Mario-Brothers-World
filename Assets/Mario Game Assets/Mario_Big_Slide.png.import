@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvu1s8cm6hxp5"
-path="res://.godot/imported/Mario_Big_Slide.png-3bebc81578579c18c857b88ab1cb6ee1.ctex"
+path="res://.godot/imported/Mario_Big_Slide.png-0822e6620e7e824697b3c146b87f7f9c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mario Game Assets/Mario_Big_Slide.png"
-dest_files=["res://.godot/imported/Mario_Big_Slide.png-3bebc81578579c18c857b88ab1cb6ee1.ctex"]
+source_file="res://Assets/Mario Game Assets/Mario_Big_Slide.png"
+dest_files=["res://.godot/imported/Mario_Big_Slide.png-0822e6620e7e824697b3c146b87f7f9c.ctex"]
 
 [params]
 

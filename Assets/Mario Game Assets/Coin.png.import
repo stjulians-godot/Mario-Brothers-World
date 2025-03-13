@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://byqsxdyhvwil1"
-path="res://.godot/imported/Coin.png-d60ead402868ae26de3bd667ef613eff.ctex"
+path="res://.godot/imported/Coin.png-d7ba9c410dbf919fc6e2737737ae9b71.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mario Game Assets/Coin.png"
-dest_files=["res://.godot/imported/Coin.png-d60ead402868ae26de3bd667ef613eff.ctex"]
+source_file="res://Assets/Mario Game Assets/Coin.png"
+dest_files=["res://.godot/imported/Coin.png-d7ba9c410dbf919fc6e2737737ae9b71.ctex"]
 
 [params]
 

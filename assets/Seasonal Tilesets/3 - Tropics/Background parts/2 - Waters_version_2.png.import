@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dby1rxd1rjfr4"
-path="res://.godot/imported/2 - Waters_version_2.png-efae8854aababeb2c186b5583c21fdd6.ctex"
+path="res://.godot/imported/2 - Waters_version_2.png-daa17b2b7e3ac8e05e0e0f20e015f381.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Seasonal Tilesets/3 - Tropics/Background parts/2 - Waters_version_2.png"
-dest_files=["res://.godot/imported/2 - Waters_version_2.png-efae8854aababeb2c186b5583c21fdd6.ctex"]
+source_file="res://Assets/Seasonal Tilesets/3 - Tropics/Background parts/2 - Waters_version_2.png"
+dest_files=["res://.godot/imported/2 - Waters_version_2.png-daa17b2b7e3ac8e05e0e0f20e015f381.ctex"]
 
 [params]
 

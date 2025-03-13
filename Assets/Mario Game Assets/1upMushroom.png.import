@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csh787xrtdvxv"
-path="res://.godot/imported/1upMushroom.png-db48f2ee5cd55a986b03b5a7efe31186.ctex"
+path="res://.godot/imported/1upMushroom.png-e05ce261134bb25bbdfe1fd8146b759c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mario Game Assets/1upMushroom.png"
-dest_files=["res://.godot/imported/1upMushroom.png-db48f2ee5cd55a986b03b5a7efe31186.ctex"]
+source_file="res://Assets/Mario Game Assets/1upMushroom.png"
+dest_files=["res://.godot/imported/1upMushroom.png-e05ce261134bb25bbdfe1fd8146b759c.ctex"]
 
 [params]
 

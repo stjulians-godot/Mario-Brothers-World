@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cndj2cwqs8168"
-path="res://.godot/imported/blocks.png-a655acf4b67180ac1ff2caa6708a5c93.ctex"
+path="res://.godot/imported/blocks.png-600579cb7c19bf721d7cf6c1ed280ed2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mario Game Assets/Tiles/blocks.png"
-dest_files=["res://.godot/imported/blocks.png-a655acf4b67180ac1ff2caa6708a5c93.ctex"]
+source_file="res://Assets/Mario Game Assets/Tiles/blocks.png"
+dest_files=["res://.godot/imported/blocks.png-600579cb7c19bf721d7cf6c1ed280ed2.ctex"]
 
 [params]
 

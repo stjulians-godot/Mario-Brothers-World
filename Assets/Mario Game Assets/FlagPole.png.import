@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bb5xjym0hfk82"
-path="res://.godot/imported/FlagPole.png-ff5f560f5e1a9a5f46d1eb8e78c2cf65.ctex"
+path="res://.godot/imported/FlagPole.png-2e97f2426a4f0fd1985958b5bee53719.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mario Game Assets/FlagPole.png"
-dest_files=["res://.godot/imported/FlagPole.png-ff5f560f5e1a9a5f46d1eb8e78c2cf65.ctex"]
+source_file="res://Assets/Mario Game Assets/FlagPole.png"
+dest_files=["res://.godot/imported/FlagPole.png-2e97f2426a4f0fd1985958b5bee53719.ctex"]
 
 [params]
 

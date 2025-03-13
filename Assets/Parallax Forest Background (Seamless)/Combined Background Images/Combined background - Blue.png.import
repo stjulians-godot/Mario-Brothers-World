@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cjtyf0nm2qjha"
-path="res://.godot/imported/Combined background - Blue.png-e5adb04fe762225fedaeea00485d82d7.ctex"
+path="res://.godot/imported/Combined background - Blue.png-b1529adf9ee4d4eccba6dbc9bc683f80.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Parallax Forest Background (Seamless)/Combined Background Images/Combined background - Blue.png"
-dest_files=["res://.godot/imported/Combined background - Blue.png-e5adb04fe762225fedaeea00485d82d7.ctex"]
+source_file="res://Assets/Parallax Forest Background (Seamless)/Combined Background Images/Combined background - Blue.png"
+dest_files=["res://.godot/imported/Combined background - Blue.png-b1529adf9ee4d4eccba6dbc9bc683f80.ctex"]
 
 [params]
 

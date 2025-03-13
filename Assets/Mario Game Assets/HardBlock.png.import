@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://45gmm0a2coy8"
-path="res://.godot/imported/HardBlock.png-c6e3a060f250b3956781e6d7c507ceb9.ctex"
+path="res://.godot/imported/HardBlock.png-efa3e54526a025afcbcb1428c3c95bce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Mario Game Assets/HardBlock.png"
-dest_files=["res://.godot/imported/HardBlock.png-c6e3a060f250b3956781e6d7c507ceb9.ctex"]
+source_file="res://Assets/Mario Game Assets/HardBlock.png"
+dest_files=["res://.godot/imported/HardBlock.png-efa3e54526a025afcbcb1428c3c95bce.ctex"]
 
 [params]
 

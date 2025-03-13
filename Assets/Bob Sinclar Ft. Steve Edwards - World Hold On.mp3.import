@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://b2g7ha0y2urep"
-path="res://.godot/imported/Bob Sinclar Ft. Steve Edwards - World Hold On.mp3-4dc5c8e09e2efa2c97536881d20f14c6.mp3str"
+path="res://.godot/imported/Bob Sinclar Ft. Steve Edwards - World Hold On.mp3-bf47309e72c366e6923289619fbcf144.mp3str"
 
 [deps]
 
-source_file="res://assets/Bob Sinclar Ft. Steve Edwards - World Hold On.mp3"
-dest_files=["res://.godot/imported/Bob Sinclar Ft. Steve Edwards - World Hold On.mp3-4dc5c8e09e2efa2c97536881d20f14c6.mp3str"]
+source_file="res://Assets/Bob Sinclar Ft. Steve Edwards - World Hold On.mp3"
+dest_files=["res://.godot/imported/Bob Sinclar Ft. Steve Edwards - World Hold On.mp3-bf47309e72c366e6923289619fbcf144.mp3str"]
 
 [params]
 
