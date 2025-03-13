@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kldio31p20cb"
-path="res://.godot/imported/Goomba.png-31af0c40a5e700d95174ca3343af0b5d.ctex"
+path="res://.godot/imported/Goomba.png-3328f98841fc93f7e4012a7111fb116c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Goomba.png"
-dest_files=["res://.godot/imported/Goomba.png-31af0c40a5e700d95174ca3343af0b5d.ctex"]
+source_file="res://assets/Goomba.png"
+dest_files=["res://.godot/imported/Goomba.png-3328f98841fc93f7e4012a7111fb116c.ctex"]
 
 [params]
 
