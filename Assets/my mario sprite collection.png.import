@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bddivwejd84kx"
-path="res://.godot/imported/my mario sprite collection.png-0e34c4038d7bf56f5beef4a49141048a.ctex"
+path="res://.godot/imported/my mario sprite collection.png-45412a6da711083679dfec27cbc1d9e5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/my mario sprite collection.png"
-dest_files=["res://.godot/imported/my mario sprite collection.png-0e34c4038d7bf56f5beef4a49141048a.ctex"]
+source_file="res://assets/my mario sprite collection.png"
+dest_files=["res://.godot/imported/my mario sprite collection.png-45412a6da711083679dfec27cbc1d9e5.ctex"]
 
 [params]
 

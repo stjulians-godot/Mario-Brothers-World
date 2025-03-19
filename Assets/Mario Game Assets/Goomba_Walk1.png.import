@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hvh36jld2xd7"
-path="res://.godot/imported/Goomba_Walk1.png-272823bc689c12bc2c592239564b039a.ctex"
+path="res://.godot/imported/Goomba_Walk1.png-8a1a8b1652f8bb03eb56530e5df3ea81.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Mario Game Assets/Goomba_Walk1.png"
-dest_files=["res://.godot/imported/Goomba_Walk1.png-272823bc689c12bc2c592239564b039a.ctex"]
+source_file="res://assets/Mario Game Assets/Goomba_Walk1.png"
+dest_files=["res://.godot/imported/Goomba_Walk1.png-8a1a8b1652f8bb03eb56530e5df3ea81.ctex"]
 
 [params]
 

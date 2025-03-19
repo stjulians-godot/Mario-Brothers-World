@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lrnvxbrhglei"
-path="res://.godot/imported/Mario_Small_Run3.png-8aade133e4e49154964b3c02a100ab04.ctex"
+path="res://.godot/imported/Mario_Small_Run3.png-b676b684f43cdcd5a4b389359be6647c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Mario Game Assets/Mario_Small_Run3.png"
-dest_files=["res://.godot/imported/Mario_Small_Run3.png-8aade133e4e49154964b3c02a100ab04.ctex"]
+source_file="res://assets/Mario Game Assets/Mario_Small_Run3.png"
+dest_files=["res://.godot/imported/Mario_Small_Run3.png-b676b684f43cdcd5a4b389359be6647c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://w3vdmt568ad4"
-path="res://.godot/imported/Castle.png-435b1e1273dfb7538572198b41711586.ctex"
+path="res://.godot/imported/Castle.png-43b69b204afbe7e67702cacd331de52a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Mario Game Assets/Castle.png"
-dest_files=["res://.godot/imported/Castle.png-435b1e1273dfb7538572198b41711586.ctex"]
+source_file="res://assets/Mario Game Assets/Castle.png"
+dest_files=["res://.godot/imported/Castle.png-43b69b204afbe7e67702cacd331de52a.ctex"]
 
 [params]
 

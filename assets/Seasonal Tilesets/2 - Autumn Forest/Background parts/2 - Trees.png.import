@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq0qr0vwqqya4"
-path="res://.godot/imported/2 - Trees.png-510444e89b56dd746c4906b7e2b8af4f.ctex"
+path="res://.godot/imported/2 - Trees.png-b3314dfd2d47a45efe206366d9b1a2ec.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Seasonal Tilesets/2 - Autumn Forest/Background parts/2 - Trees.png"
-dest_files=["res://.godot/imported/2 - Trees.png-510444e89b56dd746c4906b7e2b8af4f.ctex"]
+source_file="res://assets/Seasonal Tilesets/2 - Autumn Forest/Background parts/2 - Trees.png"
+dest_files=["res://.godot/imported/2 - Trees.png-b3314dfd2d47a45efe206366d9b1a2ec.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ck7rgkst7sy6p"
-path="res://.godot/imported/Blocks (16 x 16).png-dc4b1b2b4d042aee07b192f3ec24c443.ctex"
+path="res://.godot/imported/Blocks (16 x 16).png-cb95a8de78a2a5d2b9a80b3fa3b578cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Seasonal Tilesets/5 - Misc. universal tiles/Blocks (16 x 16).png"
-dest_files=["res://.godot/imported/Blocks (16 x 16).png-dc4b1b2b4d042aee07b192f3ec24c443.ctex"]
+source_file="res://assets/Seasonal Tilesets/5 - Misc. universal tiles/Blocks (16 x 16).png"
+dest_files=["res://.godot/imported/Blocks (16 x 16).png-cb95a8de78a2a5d2b9a80b3fa3b578cb.ctex"]
 
 [params]
 
