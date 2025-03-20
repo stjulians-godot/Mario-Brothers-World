@@ -1,7 +1,7 @@
 [gd_scene load_steps=8 format=3 uid="uid://dc3gm07ko8fds"]
 
 [ext_resource type="Script" path="res://scripts/break_box.gd" id="1_orjjx"]
-[ext_resource type="Texture2D" uid="uid://ck7rgkst7sy6p" path="res://Assets/Seasonal Tilesets/5 - Misc. universal tiles/Blocks (16 x 16).png" id="1_rgug1"]
+[ext_resource type="Texture2D" uid="uid://ck7rgkst7sy6p" path="res://assets/Seasonal Tilesets/5 - Misc. universal tiles/Blocks (16 x 16).png" id="1_rgug1"]
 [ext_resource type="AudioStream" uid="uid://ww7waf0s42q7" path="res://sounds/hit_block.wav" id="3_0q5ry"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_6ljdt"]
@@ -68,6 +68,7 @@ _data = {
 }
 
 [node name="break-box" type="CharacterBody2D"]
+scale = Vector2(5, 5)
 collision_layer = 8
 script = ExtResource("1_orjjx")
 pieces = PackedStringArray("res://assets/Seasonal Tilesets/5 - Misc. universal tiles/brick-piece-01.png", "res://assets/Seasonal Tilesets/5 - Misc. universal tiles/brick-piece-02.png", "res://assets/Seasonal Tilesets/5 - Misc. universal tiles/brick-piece-03.png", "res://assets/Seasonal Tilesets/5 - Misc. universal tiles/brick-piece-04.png")

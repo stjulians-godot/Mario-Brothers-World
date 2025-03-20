@@ -4,7 +4,7 @@
 [ext_resource type="PackedScene" uid="uid://cmhxjflctd2qb" path="res://prefabs/coin.tscn" id="1_oky4f"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_8yamb"]
-radius = 9.0
+radius = 45.0
 
 [node name="coin_rigid" type="RigidBody2D"]
 collision_layer = 0

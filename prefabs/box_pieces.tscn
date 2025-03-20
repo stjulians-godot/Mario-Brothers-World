@@ -6,6 +6,7 @@
 script = ExtResource("1_a7jnr")
 
 [node name="texture" type="Sprite2D" parent="."]
+scale = Vector2(5, 5)
 
 [node name="notifier" type="VisibleOnScreenNotifier2D" parent="."]
 
