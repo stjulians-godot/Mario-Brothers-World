@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dy8wnsj6veu8"
-path="res://.godot/imported/Goomba_Flat.png-0c8e62a0c55e6b7547ada77712759638.ctex"
+path="res://.godot/imported/Goomba_Flat.png-18f87fd9165852e8a6b57a5a609a45e7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Retro Mario Game Assets/Goomba_Flat.png"
-dest_files=["res://.godot/imported/Goomba_Flat.png-0c8e62a0c55e6b7547ada77712759638.ctex"]
+source_file="res://Assets/Retro Mario Game Assets/Goomba_Flat.png"
+dest_files=["res://.godot/imported/Goomba_Flat.png-18f87fd9165852e8a6b57a5a609a45e7.ctex"]
 
 [params]
 

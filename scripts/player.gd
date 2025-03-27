@@ -5,7 +5,7 @@ extends CharacterBody2D
 @onready var jump_sound: AudioStreamPlayer = $jump_sound
 
 var speed_direction = Vector2()
-const MAX_SPEED = 550.0
+var MAX_SPEED = 550.0
 const SLOWDOWN = 50.0
 
 ##Add: Gravity value, on earth, the normal value near surface is 9.81 m/s^2
@@ -66,3 +66,11 @@ func play_destroy_sfx():
 	sound_sfx.play()
 	await sound_sfx.finished
 	sound_sfx.queue_free()
+
+
+func _on_flower_detector_body_entered(body: Node2D) -> void:
+	if body.name == "Flourwer":
+		self.scale.x *= 4
+		self.scale.y *= 4
+		MAX_SPEED = 5000
+		anim.speed_scale *= 5

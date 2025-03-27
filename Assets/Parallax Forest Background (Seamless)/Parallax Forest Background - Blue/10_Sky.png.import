@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1rwm1yumnttt"
-path="res://.godot/imported/10_Sky.png-1c906b9877c7430a638c3670ec34b595.ctex"
+path="res://.godot/imported/10_Sky.png-2a23dae6d17f9385ce2dbf2d169e58b4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Parallax Forest Background (Seamless)/Parallax Forest Background - Blue/10_Sky.png"
-dest_files=["res://.godot/imported/10_Sky.png-1c906b9877c7430a638c3670ec34b595.ctex"]
+source_file="res://Assets/Parallax Forest Background (Seamless)/Parallax Forest Background - Blue/10_Sky.png"
+dest_files=["res://.godot/imported/10_Sky.png-2a23dae6d17f9385ce2dbf2d169e58b4.ctex"]
 
 [params]
 

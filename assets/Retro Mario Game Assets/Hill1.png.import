@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kh2nmop484o8"
-path="res://.godot/imported/Hill1.png-458fecfcc33e91732032e07397883418.ctex"
+path="res://.godot/imported/Hill1.png-647177f4a18d67dedc04a42eb6f10ee4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Retro Mario Game Assets/Hill1.png"
-dest_files=["res://.godot/imported/Hill1.png-458fecfcc33e91732032e07397883418.ctex"]
+source_file="res://Assets/Retro Mario Game Assets/Hill1.png"
+dest_files=["res://.godot/imported/Hill1.png-647177f4a18d67dedc04a42eb6f10ee4.ctex"]
 
 [params]
 

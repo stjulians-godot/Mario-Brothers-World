@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kldio31p20cb"
-path="res://.godot/imported/Goomba.png-d48ed607ffb19418130238793ed7c1ac.ctex"
+path="res://.godot/imported/Goomba.png-d5014154db495e44c5a75ffc85e4a7cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/3D Mario Game Assets/Goomba.png"
-dest_files=["res://.godot/imported/Goomba.png-d48ed607ffb19418130238793ed7c1ac.ctex"]
+source_file="res://Assets/3D Mario Game Assets/Goomba.png"
+dest_files=["res://.godot/imported/Goomba.png-d5014154db495e44c5a75ffc85e4a7cb.ctex"]
 
 [params]
 

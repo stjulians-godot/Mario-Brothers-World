@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2jcmsubsw841"
-path="res://.godot/imported/Flag.png-a2652db95a6173577652d27b2fd5a849.ctex"
+path="res://.godot/imported/Flag.png-3e0e9bfea8a28676149a1845d0ab3f50.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Retro Mario Game Assets/Flag.png"
-dest_files=["res://.godot/imported/Flag.png-a2652db95a6173577652d27b2fd5a849.ctex"]
+source_file="res://Assets/Retro Mario Game Assets/Flag.png"
+dest_files=["res://.godot/imported/Flag.png-3e0e9bfea8a28676149a1845d0ab3f50.ctex"]
 
 [params]
 

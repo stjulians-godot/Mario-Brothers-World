@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3ojjx50gtpe1"
-path="res://.godot/imported/Lava_frames (16 x 32).png-1337d8c6bdb052c7baf57007d3c312db.ctex"
+path="res://.godot/imported/Lava_frames (16 x 32).png-c3379bc4919f8993a1975f5e94e23cea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Seasonal Tilesets/5 - Misc. universal tiles/Lava_frames (16 x 32).png"
-dest_files=["res://.godot/imported/Lava_frames (16 x 32).png-1337d8c6bdb052c7baf57007d3c312db.ctex"]
+source_file="res://Assets/Seasonal Tilesets/5 - Misc. universal tiles/Lava_frames (16 x 32).png"
+dest_files=["res://.godot/imported/Lava_frames (16 x 32).png-c3379bc4919f8993a1975f5e94e23cea.ctex"]
 
 [params]
 

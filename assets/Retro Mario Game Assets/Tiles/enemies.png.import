@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bc7ccpf8hagey"
-path="res://.godot/imported/enemies.png-f4c05fc188be8ac5b11def4ee45971ab.ctex"
+path="res://.godot/imported/enemies.png-a26604667bcec5ae7eacdb225ae35c42.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Retro Mario Game Assets/Tiles/enemies.png"
-dest_files=["res://.godot/imported/enemies.png-f4c05fc188be8ac5b11def4ee45971ab.ctex"]
+source_file="res://Assets/Retro Mario Game Assets/Tiles/enemies.png"
+dest_files=["res://.godot/imported/enemies.png-a26604667bcec5ae7eacdb225ae35c42.ctex"]
 
 [params]
 

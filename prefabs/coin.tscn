@@ -1,8 +1,8 @@
 [gd_scene load_steps=15 format=3 uid="uid://cmhxjflctd2qb"]
 
 [ext_resource type="Script" path="res://scripts/coin.gd" id="1_0li3k"]
-[ext_resource type="Texture2D" uid="uid://bjbs41o32f6r3" path="res://assets/Mini FX, Items & UI/Common Pick-ups/Coin (16 x 16).png" id="1_ou478"]
-[ext_resource type="Texture2D" uid="uid://6po11lq4uhmv" path="res://assets/Mini FX, Items & UI/Effects/Yellow_Sparkle (16 x 16).png" id="2_wpo08"]
+[ext_resource type="Texture2D" uid="uid://bjbs41o32f6r3" path="res://Assets/Mini FX, Items & UI/Common Pick-ups/Coin (16 x 16).png" id="1_ou478"]
+[ext_resource type="Texture2D" uid="uid://6po11lq4uhmv" path="res://Assets/Mini FX, Items & UI/Effects/Yellow_Sparkle (16 x 16).png" id="2_wpo08"]
 [ext_resource type="AudioStream" uid="uid://bdm1m01joojn3" path="res://sounds/retro_coin.wav" id="4_nbia3"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_bhslr"]

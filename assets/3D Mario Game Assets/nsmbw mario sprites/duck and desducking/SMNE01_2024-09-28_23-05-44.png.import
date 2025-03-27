@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dk2s07diumfjk"
-path="res://.godot/imported/SMNE01_2024-09-28_23-05-44.png-f600f228b234bcc245a59bf5fcd2fa2e.ctex"
+path="res://.godot/imported/SMNE01_2024-09-28_23-05-44.png-4f06698c58a2b89b75a8f61ab99637cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/3D Mario Game Assets/nsmbw mario sprites/duck and desducking/SMNE01_2024-09-28_23-05-44.png"
-dest_files=["res://.godot/imported/SMNE01_2024-09-28_23-05-44.png-f600f228b234bcc245a59bf5fcd2fa2e.ctex"]
+source_file="res://Assets/3D Mario Game Assets/nsmbw mario sprites/duck and desducking/SMNE01_2024-09-28_23-05-44.png"
+dest_files=["res://.godot/imported/SMNE01_2024-09-28_23-05-44.png-4f06698c58a2b89b75a8f61ab99637cb.ctex"]
 
 [params]
 

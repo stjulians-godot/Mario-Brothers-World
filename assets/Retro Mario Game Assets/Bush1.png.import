@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btd6gryyeiu32"
-path="res://.godot/imported/Bush1.png-9a9d0530fd0bf0dbc2ce428d65fd896a.ctex"
+path="res://.godot/imported/Bush1.png-f07b12e27799704ed1688b3cfe06d906.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Retro Mario Game Assets/Bush1.png"
-dest_files=["res://.godot/imported/Bush1.png-9a9d0530fd0bf0dbc2ce428d65fd896a.ctex"]
+source_file="res://Assets/Retro Mario Game Assets/Bush1.png"
+dest_files=["res://.godot/imported/Bush1.png-f07b12e27799704ed1688b3cfe06d906.ctex"]
 
 [params]
 

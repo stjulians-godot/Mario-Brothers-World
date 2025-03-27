@@ -5,7 +5,7 @@ extends StaticBody2D
 @onready var spawn_marker: Marker2D = $spawn_marker
 @onready var area_2d: Area2D = $Area2D
 
-const power_up = preload("res://prefabs/coin_rigid.tscn")
+const power_up = preload("res://prefabs/flourwer.tscn")
 var impulse = -600
 
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf2hme003vx13"
-path="res://.godot/imported/Flowers (16 x 16).png-cbade1b4b35c2ec72d65e9a12e36ede2.ctex"
+path="res://.godot/imported/Flowers (16 x 16).png-f7cabc7f7220f0658bce4b35e3ead48e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Seasonal Tilesets/5 - Misc. universal tiles/Flowers (16 x 16).png"
-dest_files=["res://.godot/imported/Flowers (16 x 16).png-cbade1b4b35c2ec72d65e9a12e36ede2.ctex"]
+source_file="res://Assets/Seasonal Tilesets/5 - Misc. universal tiles/Flowers (16 x 16).png"
+dest_files=["res://.godot/imported/Flowers (16 x 16).png-f7cabc7f7220f0658bce4b35e3ead48e.ctex"]
 
 [params]
 

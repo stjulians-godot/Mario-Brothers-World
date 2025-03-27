@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2ijk5336sca5"
-path="res://.godot/imported/Mario_Small_Jump.png-f493184224d86e4d3a39bd3bd33eb6db.ctex"
+path="res://.godot/imported/Mario_Small_Jump.png-26afa4b29974a6c0c2b5fd52def3e402.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Retro Mario Game Assets/Mario_Small_Jump.png"
-dest_files=["res://.godot/imported/Mario_Small_Jump.png-f493184224d86e4d3a39bd3bd33eb6db.ctex"]
+source_file="res://Assets/Retro Mario Game Assets/Mario_Small_Jump.png"
+dest_files=["res://.godot/imported/Mario_Small_Jump.png-26afa4b29974a6c0c2b5fd52def3e402.ctex"]
 
 [params]
 
