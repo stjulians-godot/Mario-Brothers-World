@@ -1,14 +1,14 @@
 [gd_scene load_steps=4 format=3 uid="uid://d4gs3da18r1el"]
 
 [ext_resource type="Script" path="res://flourwer.gd" id="1_5d53i"]
-[ext_resource type="Texture2D" uid="uid://b3u66yuktdc5e" path="res://Assets/Retro Mario Game Assets/Screenshot_2025-03-27_163003-removebg-preview.png" id="1_wt0tx"]
+[ext_resource type="Texture2D" uid="uid://b3u66yuktdc5e" path="res://assets/Retro Mario Game Assets/Screenshot_2025-03-27_163003-removebg-preview.png" id="1_wt0tx"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_83vqx"]
 radius = 45.0
 height = 126.0
 
-[node name="Flourwer" type="RigidBody2D"]
-collision_layer = 8
+[node name="Flourwer" type="Area2D"]
+collision_layer = 0
 script = ExtResource("1_5d53i")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]

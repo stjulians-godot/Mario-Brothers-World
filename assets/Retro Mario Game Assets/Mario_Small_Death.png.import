@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1oy1nowdqsbv"
-path="res://.godot/imported/Mario_Small_Death.png-001533ed180fb87b1a07ee1738134d6b.ctex"
+path="res://.godot/imported/Mario_Small_Death.png-5114c8e31f67c3df0a58f2d967ed45a3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Retro Mario Game Assets/Mario_Small_Death.png"
-dest_files=["res://.godot/imported/Mario_Small_Death.png-001533ed180fb87b1a07ee1738134d6b.ctex"]
+source_file="res://assets/Retro Mario Game Assets/Mario_Small_Death.png"
+dest_files=["res://.godot/imported/Mario_Small_Death.png-5114c8e31f67c3df0a58f2d967ed45a3.ctex"]
 
 [params]
 

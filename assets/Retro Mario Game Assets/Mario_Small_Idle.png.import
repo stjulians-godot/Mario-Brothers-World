@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://beu7h6houyorb"
-path="res://.godot/imported/Mario_Small_Idle.png-f956ea091c6698445d64ec4a9e212736.ctex"
+path="res://.godot/imported/Mario_Small_Idle.png-498888ff257c0081f65f0fa76b12d429.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Retro Mario Game Assets/Mario_Small_Idle.png"
-dest_files=["res://.godot/imported/Mario_Small_Idle.png-f956ea091c6698445d64ec4a9e212736.ctex"]
+source_file="res://assets/Retro Mario Game Assets/Mario_Small_Idle.png"
+dest_files=["res://.godot/imported/Mario_Small_Idle.png-498888ff257c0081f65f0fa76b12d429.ctex"]
 
 [params]
 

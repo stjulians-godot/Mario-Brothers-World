@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://p5hygj3csmwp"
-path="res://.godot/imported/SMNE01_2024-09-29_16-42-18.png-f6c0c5c275635627511e5bd467f7cd27.ctex"
+path="res://.godot/imported/SMNE01_2024-09-29_16-42-18.png-0fc20b19b294ea6fb44dca674d45e938.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/3D Mario Game Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-18.png"
-dest_files=["res://.godot/imported/SMNE01_2024-09-29_16-42-18.png-f6c0c5c275635627511e5bd467f7cd27.ctex"]
+source_file="res://assets/3D Mario Game Assets/nsmbw mario sprites/stand/SMNE01_2024-09-29_16-42-18.png"
+dest_files=["res://.godot/imported/SMNE01_2024-09-29_16-42-18.png-0fc20b19b294ea6fb44dca674d45e938.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://64g2n1i040wn"
-path="res://.godot/imported/Starman.png-383db79ac0b68e2d5661c8853d1cc215.ctex"
+path="res://.godot/imported/Starman.png-185149a57dcf2a34e3b6f8da53b47505.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Retro Mario Game Assets/Starman.png"
-dest_files=["res://.godot/imported/Starman.png-383db79ac0b68e2d5661c8853d1cc215.ctex"]
+source_file="res://assets/Retro Mario Game Assets/Starman.png"
+dest_files=["res://.godot/imported/Starman.png-185149a57dcf2a34e3b6f8da53b47505.ctex"]
 
 [params]
 

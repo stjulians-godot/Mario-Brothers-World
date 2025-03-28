@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vph7ilv64eol"
-path="res://.godot/imported/Cloud1.png-5447ad11902a15a2bf744bdc90cf57ac.ctex"
+path="res://.godot/imported/Cloud1.png-aa834dce12d63aa4d28221a95a66906e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Retro Mario Game Assets/Cloud1.png"
-dest_files=["res://.godot/imported/Cloud1.png-5447ad11902a15a2bf744bdc90cf57ac.ctex"]
+source_file="res://assets/Retro Mario Game Assets/Cloud1.png"
+dest_files=["res://.godot/imported/Cloud1.png-aa834dce12d63aa4d28221a95a66906e.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsgy5yq5v7q2e"
-path="res://.godot/imported/5 - Sky_color.png-52f8fe0d477bf5ec15027559b57329c6.ctex"
+path="res://.godot/imported/5 - Sky_color.png-a4462b61584c331f63271a92d7fe2b84.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Seasonal Tilesets/3 - Tropics/Background parts/5 - Sky_color.png"
-dest_files=["res://.godot/imported/5 - Sky_color.png-52f8fe0d477bf5ec15027559b57329c6.ctex"]
+source_file="res://assets/Seasonal Tilesets/3 - Tropics/Background parts/5 - Sky_color.png"
+dest_files=["res://.godot/imported/5 - Sky_color.png-a4462b61584c331f63271a92d7fe2b84.ctex"]
 
 [params]
 

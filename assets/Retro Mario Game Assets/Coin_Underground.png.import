@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tnn236vn6jw2"
-path="res://.godot/imported/Coin_Underground.png-1ef3f764dc16756b6eb36426bfa03d75.ctex"
+path="res://.godot/imported/Coin_Underground.png-bf0255dd5f275a4d69636b54ec4188f7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Retro Mario Game Assets/Coin_Underground.png"
-dest_files=["res://.godot/imported/Coin_Underground.png-1ef3f764dc16756b6eb36426bfa03d75.ctex"]
+source_file="res://assets/Retro Mario Game Assets/Coin_Underground.png"
+dest_files=["res://.godot/imported/Coin_Underground.png-bf0255dd5f275a4d69636b54ec4188f7.ctex"]
 
 [params]
 

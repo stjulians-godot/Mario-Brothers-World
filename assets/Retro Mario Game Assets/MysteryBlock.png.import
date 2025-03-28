@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0i3tuici3b3i"
-path="res://.godot/imported/MysteryBlock.png-80b448c209bed2be366d0a835d377efd.ctex"
+path="res://.godot/imported/MysteryBlock.png-7473f93aea60e7fcae6643cdf4f5016b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Retro Mario Game Assets/MysteryBlock.png"
-dest_files=["res://.godot/imported/MysteryBlock.png-80b448c209bed2be366d0a835d377efd.ctex"]
+source_file="res://assets/Retro Mario Game Assets/MysteryBlock.png"
+dest_files=["res://.godot/imported/MysteryBlock.png-7473f93aea60e7fcae6643cdf4f5016b.ctex"]
 
 [params]
 

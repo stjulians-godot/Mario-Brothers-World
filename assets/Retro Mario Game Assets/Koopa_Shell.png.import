@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://de2y51tvf66ki"
-path="res://.godot/imported/Koopa_Shell.png-7eb84bd14e5066e2190640c9e224a824.ctex"
+path="res://.godot/imported/Koopa_Shell.png-5b6b66d22807dfd1e8e473bc52e06871.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Retro Mario Game Assets/Koopa_Shell.png"
-dest_files=["res://.godot/imported/Koopa_Shell.png-7eb84bd14e5066e2190640c9e224a824.ctex"]
+source_file="res://assets/Retro Mario Game Assets/Koopa_Shell.png"
+dest_files=["res://.godot/imported/Koopa_Shell.png-5b6b66d22807dfd1e8e473bc52e06871.ctex"]
 
 [params]
 

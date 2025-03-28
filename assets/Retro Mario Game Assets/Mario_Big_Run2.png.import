@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwvd2q45rpxbd"
-path="res://.godot/imported/Mario_Big_Run2.png-4eb86fdfba23f2f2dfcc091dc18b0fe0.ctex"
+path="res://.godot/imported/Mario_Big_Run2.png-a38525a318f06551940337620591d1f3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Retro Mario Game Assets/Mario_Big_Run2.png"
-dest_files=["res://.godot/imported/Mario_Big_Run2.png-4eb86fdfba23f2f2dfcc091dc18b0fe0.ctex"]
+source_file="res://assets/Retro Mario Game Assets/Mario_Big_Run2.png"
+dest_files=["res://.godot/imported/Mario_Big_Run2.png-a38525a318f06551940337620591d1f3.ctex"]
 
 [params]
 

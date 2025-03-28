@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://byyvpmb6spscp"
-path="res://.godot/imported/PipeConnection.png-764dbeb7d9134cc9852c630543f2d84d.ctex"
+path="res://.godot/imported/PipeConnection.png-ce3702e3fde81f17a1e19456b9b15c21.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Retro Mario Game Assets/PipeConnection.png"
-dest_files=["res://.godot/imported/PipeConnection.png-764dbeb7d9134cc9852c630543f2d84d.ctex"]
+source_file="res://assets/Retro Mario Game Assets/PipeConnection.png"
+dest_files=["res://.godot/imported/PipeConnection.png-ce3702e3fde81f17a1e19456b9b15c21.ctex"]
 
 [params]
 

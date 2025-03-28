@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btmwvvuueqlcf"
-path="res://.godot/imported/Bright_Sparkle (16 x 16).png-b1243c48c8ff6d69bfb87cb1102170b3.ctex"
+path="res://.godot/imported/Bright_Sparkle (16 x 16).png-06ac52ebb29d1420573278d50b8e839e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Mini FX, Items & UI/Effects/Bright_Sparkle (16 x 16).png"
-dest_files=["res://.godot/imported/Bright_Sparkle (16 x 16).png-b1243c48c8ff6d69bfb87cb1102170b3.ctex"]
+source_file="res://assets/Mini FX, Items & UI/Effects/Bright_Sparkle (16 x 16).png"
+dest_files=["res://.godot/imported/Bright_Sparkle (16 x 16).png-06ac52ebb29d1420573278d50b8e839e.ctex"]
 
 [params]
 
