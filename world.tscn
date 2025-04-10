@@ -11,7 +11,7 @@
 [ext_resource type="Texture2D" uid="uid://drmqqsc3s7oj5" path="res://assets/Parallax Forest Background (Seamless)/Parallax Forest Background - Blue/03_Particles.png" id="8_l8843"]
 [ext_resource type="Texture2D" uid="uid://3ij3ixgusjto" path="res://assets/Parallax Forest Background (Seamless)/Parallax Forest Background - Blue/02_Bushes.png" id="9_n6owu"]
 [ext_resource type="Texture2D" uid="uid://dsui83y673e64" path="res://assets/Parallax Forest Background (Seamless)/Parallax Forest Background - Blue/01_Mist.png" id="10_arcjh"]
-[ext_resource type="PackedScene" uid="uid://bpj7oj5mvv78k" path="res://characters/mario.tscn" id="11_txlde"]
+[ext_resource type="PackedScene" uid="uid://bpj7oj5mvv78k" path="res://characters/player.tscn" id="11_txlde"]
 [ext_resource type="PackedScene" uid="uid://dblumq8nyxrj6" path="res://prefabs/questionmark_box.tscn" id="13_wgolp"]
 [ext_resource type="AudioStream" uid="uid://b2g7ha0y2urep" path="res://sounds/Bob Sinclar Ft. Steve Edwards - World Hold On.mp3" id="15_2oqme"]
 [ext_resource type="PackedScene" uid="uid://dc3gm07ko8fds" path="res://prefabs/break_box.tscn" id="70_256yg"]
